@@ -6,6 +6,6 @@ import retrofit2.http.GET
 import retrofit2.http.HeaderMap
 
 interface SignInApi {
-    @GET("/")
+    @GET("59c37afc120000da089c0d8f/")
     fun signIn(@HeaderMap headers: Map<String, String>): Call<User>
 }
