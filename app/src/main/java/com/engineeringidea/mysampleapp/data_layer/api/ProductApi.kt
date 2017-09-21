@@ -5,6 +5,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface ProductApi {
-    @get:GET("59c3852b1100000f0099cb21/")
+    @get:GET("59c3864c1100000f0199cb28/")
     val product: Call<Product>
 }
