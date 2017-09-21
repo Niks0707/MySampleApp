@@ -3,7 +3,7 @@
 
     //Product page
     <string name="select_color">Select a color</string>
-    <string name="product_description">Product description</string>
+    <string name="product_description">Description</string>
     <string name="add_to_bag">Add to Bag</string>
     <string name="price">$%.2f</string>
     <string name="default_error_text">Something went wrong.</string>
