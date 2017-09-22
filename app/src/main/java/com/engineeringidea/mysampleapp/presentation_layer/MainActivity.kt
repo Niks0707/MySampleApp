@@ -6,8 +6,8 @@ import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentTransaction
 import android.support.v7.app.AppCompatActivity
 import com.engineeringidea.mysampleapp.R
-import com.engineeringidea.mysampleapp.presentation_layer.product_page.ProductPageFragment
-import com.engineeringidea.mysampleapp.presentation_layer.product_page.ProductPageListener
+import com.engineeringidea.mysampleapp.presentation_layer.mvp.product_page.ProductPageFragment
+import com.engineeringidea.mysampleapp.presentation_layer.mvp.product_page.ProductPageListener
 import com.engineeringidea.mysampleapp.presentation_layer.sign_in.SignInFragment
 import com.engineeringidea.mysampleapp.presentation_layer.sign_in.SignInListener
 
